@@ -24,6 +24,8 @@
 <h3>BE FUNIONS NOT ONIONS🤣😂</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=insshubh&icon=8&color=11)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=insshubh&label=Profile%20Views&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
