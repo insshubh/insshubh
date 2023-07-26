@@ -1,6 +1,6 @@
 # 💫 Hey There, I am Shubham Kumar :
 
-🔭 I’m currently working on Video Calling Platform webApplication using (WEBRTC)<br>👯 I’m looking to collaborate on  developing Women Safety App<br>🌱 I’m currently learning CyberSecurity <br>💬 Ask me about Anything <br>⚡ Fun fact I  Think I am HASHmookh.
+🔭 I’m currently working on Gesture Recognition using (OPENCV)<br>👯 I’m looking to collaborate on Software Development <br>🌱 I’m currently learning CyberSecurity <br>💬 Ask me about Anything <br>⚡ Fun fact I  Think I am HASHmookh.
 
 
 ## 🌐 Socials:
